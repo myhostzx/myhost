@@ -1,0 +1,67 @@
+# My hosts
+# 迅雷相关（电信）
+120.221.99.224 www.xunlei.com
+120.221.99.224 vip.xunlei.com
+120.221.99.224 xzb.xunlei.com
+211.143.155.160 msg.client.xunlei.com
+112.87.43.227 hub5c.sandai.net
+223.111.211.28 hub5u.sandai.net
+223.111.211.31 hub5pnc.sandai.net
+122.13.15.148 stat.lixian.vip.xunlei.com
+112.80.23.121 api.portal.swjsq.vip.xunlei.com
+153.37.208.104 cache2.vip.xunlei.com
+153.37.171.81 interface.reg.vip.xunlei.com
+153.37.208.240 bubble.vip.xunlei.com
+153.37.171.241 service.cdn.vip.xunlei.com
+42.123.125.237 download.verify.stat.xunlei.com
+182.118.125.132 svr2.support.client.xunlei.com
+#其他网站
+#直播
+112.51.125.198 www.douyu.com
+112.51.121.163 www.panda.tv
+111.47.221.223 www.huya.com
+#github
+192.30.255.112 github.com
+151.101.76.133 raw.githubusercontent.com
+#简书
+112.51.126.25 www.jianshu.com
+#52破解
+112.25.60.130 www.52pojie.cn
+#百度相关
+183.232.231.118 tieba.baidu.com
+112.34.111.122 baike.baidu.com
+112.34.111.108 pan.baidu.com
+#bilibili相关
+139.199.78.93 www.bilibili.com
+183.240.17.137 live.bilibili.com
+106.15.126.57 bangumi.bilibili.com
+#a站
+112.5.251.48 www.acfun.cn
+d站
+112.51.125.199 www.dilidili.wang
+#微博
+180.149.134.142 weibo.com
+#知乎
+118.178.213.186 www.zhihu.com
+#起点
+120.204.10.18 www.qidian.com
+#steam
+104.111.200.96 store.steampowered.com
+#动漫之家
+112.5.187.180 donghua.dmzj.com
+118.194.44.6 bbs.dmzj.com
+#诸神
+162.159.208.71 www.kamigami.org
+#bangumi
+178.79.181.137 bangumi.tv
+#慕课
+223.252.199.7 www.icourse163.org
+#学堂在线
+180.97.162.141 www.xuetangx.com
+#印象笔记
+119.254.30.32 app.yinxiang.com
+#豆瓣相关
+115.182.201.8 movie.douban.com
+115.182.201.8 book.douban.com
+#deepso搜索
+47.90.110.106 deepso.io
