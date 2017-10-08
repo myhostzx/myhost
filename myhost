@@ -22,8 +22,8 @@
 112.51.121.163 www.panda.tv
 111.47.221.223 www.huya.com
 #github
-192.30.255.112 github.com
-151.101.76.133 raw.githubusercontent.com
+#192.30.255.112 github.com
+#151.101.76.133 raw.githubusercontent.com
 #简书
 112.51.126.25 www.jianshu.com
 #52破解
@@ -52,14 +52,14 @@
 120.204.10.18 www.qidian.com
 120.204.10.18 write.qq.com
 #steam
-104.111.200.96 store.steampowered.com
+#104.111.200.96 store.steampowered.com
 #动漫之家
 112.5.187.180 donghua.dmzj.com
 118.194.44.6 bbs.dmzj.com
 #诸神
 162.159.208.71 www.kamigami.org
 #bangumi
-178.79.181.137 bangumi.tv
+#178.79.181.137 bangumi.tv
 #慕课
 223.252.199.7 www.icourse163.org
 #学堂在线
@@ -70,7 +70,7 @@
 115.182.201.8 movie.douban.com
 115.182.201.8 book.douban.com
 #deepso搜索
-47.90.110.106 deepso.io
+#47.90.110.106 deepso.io
 #3dm相关
 43.241.48.236 www.3dmgame.com
 43.241.48.236 bbs.3dmgame.com
@@ -79,7 +79,7 @@
 104.31.76.174 dbfansub.com
 23.225.139.228 www.minimp4.com
 #韩服
-1.201.142.170 www.op.gg
+#1.201.142.170 www.op.gg
 #大眼仔旭
 125.65.41.107 www.dayanzai.me
 #扩软博客
