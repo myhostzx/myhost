@@ -16,6 +16,11 @@
 153.37.171.241 service.cdn.vip.xunlei.com
 42.123.125.237 download.verify.stat.xunlei.com
 182.118.125.132 svr2.support.client.xunlei.com
+#屏蔽迅雷封杀
+127.0.0.1 upgrade.x19.xunlei.com
+127.0.0.1 hub5btmain.sandai.net
+127.0.0.1 hub5emu.sandai.net
+
 #其他网站
 #直播
 112.51.125.198 www.douyu.com
