@@ -1,21 +1,21 @@
 # My hosts
 # 迅雷相关（电信）
-120.221.99.224 www.xunlei.com
-98.126.172.10 wwwxunlei.com
-120.221.99.224 vip.xunlei.com
-120.221.99.224 xzb.xunlei.com
-211.143.155.160 msg.client.xunlei.com
-112.87.43.227 hub5c.sandai.net
-223.111.211.28 hub5u.sandai.net
-223.111.211.31 hub5pnc.sandai.net
-122.13.15.148 stat.lixian.vip.xunlei.com
-112.80.23.121 api.portal.swjsq.vip.xunlei.com
-153.37.208.104 cache2.vip.xunlei.com
-153.37.171.81 interface.reg.vip.xunlei.com
-153.37.208.240 bubble.vip.xunlei.com
-153.37.171.241 service.cdn.vip.xunlei.com
-42.123.125.237 download.verify.stat.xunlei.com
-182.118.125.132 svr2.support.client.xunlei.com
+#120.221.99.224 www.xunlei.com
+#98.126.172.10 wwwxunlei.com
+#120.221.99.224 vip.xunlei.com
+#120.221.99.224 xzb.xunlei.com
+#211.143.155.160 msg.client.xunlei.com
+#112.87.43.227 hub5c.sandai.net
+#223.111.211.28 hub5u.sandai.net
+#223.111.211.31 hub5pnc.sandai.net
+#122.13.15.148 stat.lixian.vip.xunlei.com
+#112.80.23.121 api.portal.swjsq.vip.xunlei.com
+#153.37.208.104 cache2.vip.xunlei.com
+#153.37.171.81 interface.reg.vip.xunlei.com
+#153.37.208.240 bubble.vip.xunlei.com
+#153.37.171.241 service.cdn.vip.xunlei.com
+#42.123.125.237 download.verify.stat.xunlei.com
+#182.118.125.132 svr2.support.client.xunlei.com
 #屏蔽迅雷封杀
 127.0.0.1 upgrade.x19.xunlei.com
 127.0.0.1 hub5btmain.sandai.net
@@ -70,7 +70,7 @@
 #学堂在线
 180.97.162.141 www.xuetangx.com
 #印象笔记
-119.254.30.32 app.yinxiang.com
+#119.254.30.32 app.yinxiang.com
 #豆瓣相关
 115.182.201.8 movie.douban.com
 115.182.201.8 book.douban.com
@@ -80,8 +80,8 @@
 43.241.48.236 www.3dmgame.com
 43.241.48.236 bbs.3dmgame.com
 #人人电波迷你mp4
-47.90.91.142 www.zimuzu.tv
-104.31.76.174 dbfansub.com
+#47.90.91.142 www.zimuzu.tv
+#104.31.76.174 dbfansub.com
 #23.225.139.228 www.minimp4.com
 #韩服
 #1.201.142.170 www.op.gg
