@@ -1,10 +1,10 @@
 [
   {
     "bookSourceGroup": "发现",
-    "bookSourceName": "起点中文⭐",
+    "bookSourceName": "起点中文 ⭐",
     "bookSourceType": "",
     "bookSourceUrl": "http://www.qidian.com",
-    “启用”：是的，
+    "enable": true,
     "httpUserAgent": "",
     "ruleBookAuthor": "class.book-info@tag.h1@tag.span@tag.a@text",
     "ruleBookContent": "class.read-content@tag.p@text",
@@ -16,7 +16,7 @@
     "ruleContentUrl": "tag.a@href",
     "ruleContentUrlNext": "",
     "ruleCoverUrl": "",
-    "ruleFindUrl": "月票榜::https://www.qidian.com/rank/yuepiao?page=searchPage&&推荐榜::https://www.qidian.com/rank/recom?style=1&page=searchPage&&强推榜::https://www.qidian.com/book/strongrec?style=1&page=searchPage&&收藏榜::https://www.qidian.com/rank/collect?style=1&page=searchPage&&三江榜:: https://www.qidian.com/book/sanjiang?style=1&page=searchPage&&打赏榜::https://www.qidian.com/rank/vipreward?style=1&page=searchPage&&热销排行榜::https ://www.qidian.com/rank/hotsales?style=1&page=searchPage&&更新列表&vidian.:https://www.com/rank/rank/pup?style=1&page=search=searchPage&承包商新书::https www.qidian.com/rank/signnewbook?style=1&&新书::https://www.qidian.com/rank/pubnewbook?style=1&page=searchPage&&新人承包商::https://www.qidian.com/ rank/newsign?style=1&page=searchPage&&新人新书::https://www.qidian.com/rank/newauthor?style=1&page=searchPage&&",
+    "ruleFindUrl": "月票榜::https://www.qidian.com/rank/yuepiao?page=searchPage&&推荐榜::https://www.qidian.com/rank/recom?style=1&page=searchPage&&强推榜::https://www.qidian.com/book/strongrec?style=1&page=searchPage&&收藏榜::https://www.qidian.com/rank/collect?style=1&page=searchPage&&三江榜::https://www.qidian.com/book/sanjiang?style=1&page=searchPage&&打赏榜::https://www.qidian.com/rank/vipreward?style=1&page=searchPage&&热销榜单::https://www.qidian.com/rank/hotsales?style=1&page=searchPage&&更新榜单::https://www.qidian.com/rank/vipup?style=1&page=searchPage&&签约新书::https://www.qidian.com/rank/signnewbook?style=1&&作者新书::https://www.qidian.com/rank/pubnewbook?style=1&page=searchPage&&新人签约::https://www.qidian.com/rank/newsign?style=1&page=searchPage&&新人新书::https://www.qidian.com/rank/newauthor?style=1&page=searchPage&&",
     "ruleIntroduce": "class.book-intro@tag.p@text",
     "ruleSearchAuthor": "class.book-mid-info@class.author@tag.a.0@text||tag.a.2@text||tag.span@text",
     "ruleSearchCoverUrl": "class.book-img-box@tag.img@src",
@@ -26,7 +26,7 @@
     "ruleSearchName": "class.book-mid-info@tag.h4@tag.a@text||tag.a.1@text",
     "ruleSearchNoteUrl": "class.book-mid-info@tag.h4@tag.a@href||tag.a.1@href",
     "ruleSearchUrl": "https://www.qidian.com/search?kw=searchKey&page=searchPage",
-    “序列号”：1，
-    “体重”：6803
+    "serialNumber": 1,
+    "weight": 6803
   }
 ]
